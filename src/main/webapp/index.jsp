@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Cloud junction Hello World!!!!!!!!</h2>
+<h2>Cloudjunction Hello World!!!!!!!!</h2>
 </body>
 </html>
