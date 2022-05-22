@@ -19,7 +19,7 @@
     <maven.compiler.target>1.7</maven.compiler.target>
     <sonar.organization>cloudjunction-devops</sonar.organization>
     <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-    <sonar.login>096b5cb650900767b55f347b7df8a01410b15530</sonar.login>
+    <sonar.login>8557b64a976c0c42581006e51b5ecff205e028e0</sonar.login>
     
   </properties>
 
