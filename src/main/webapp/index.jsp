@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Cloudjunction Hello World@V1/h2>
+<h2>Welcome to Cloudjunction. July2022 /h2>
 </body>
 </html>
